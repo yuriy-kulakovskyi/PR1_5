@@ -1,0 +1,30 @@
+Start testing: Mar 17 11:01 EET
+----------------------------------------------------------
+1/1 Testing: RightAngled.Constructor
+1/1 Test: RightAngled.Constructor
+Command: "/Users/yura_kulakovskyi/Documents/C++/OOP/PR1/PR1_5/cmake-build-debug/PR1_5_tests" "--gtest_filter=RightAngled.Constructor" "--gtest_also_run_disabled_tests"
+Directory: /Users/yura_kulakovskyi/Documents/C++/OOP/PR1/PR1_5/cmake-build-debug
+"RightAngled.Constructor" start time: Mar 17 11:01 EET
+Output:
+----------------------------------------------------------
+Running main() from /Users/yura_kulakovskyi/Documents/C++/OOP/PR1/PR1_5/lib/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = RightAngled.Constructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RightAngled
+[ RUN      ] RightAngled.Constructor
+[       OK ] RightAngled.Constructor (0 ms)
+[----------] 1 test from RightAngled (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RightAngled.Constructor" end time: Mar 17 11:01 EET
+"RightAngled.Constructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 17 11:01 EET
